@@ -1,4 +1,4 @@
-## Countdown Timer
+## Password Generator
 
 ### Built Using
  <ul>
